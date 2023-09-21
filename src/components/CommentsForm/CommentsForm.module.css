@@ -1,0 +1,25 @@
+.commentFormContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  margin-bottom: 20px;
+}
+.commentFormInput {
+  min-width: 200px;
+  width: 70%;
+  padding: 10px;
+  margin-right: 20px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+
+.commentFormButton {
+  color: white;
+  background-color:#148A9D;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 7px;
+  font-size: 16px;
+  cursor: pointer;
+}
